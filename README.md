@@ -1,2 +1,2 @@
 # Maxent
-(https://github.com/sccuncai/raw/master/Screenshots/1.png)
+![image](https://github.com/sccuncai/Maxent/raw/master/Screenshots/1.png)
