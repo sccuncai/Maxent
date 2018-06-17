@@ -1,5 +1,5 @@
 # Maxent
-java实现，此最大熵结合了java上opennlp包的最大熵及python上nltk的最大熵部分实现，并进行了一些改动。算法包含gis及iis实现，，内含详细中文注释，附上训练及测试数据<br>
+java实现，此最大熵结合了java上opennlp包的最大熵及python上nltk的最大熵部分实现，并进行了一些改动。算法包含gis及iis实现，内含详细中文注释，附上训练及测试数据<br>
 
 # 训练执行截图:<br>
 ![image](https://github.com/sccuncai/Maxent/raw/master/Screenshots/1.png)
