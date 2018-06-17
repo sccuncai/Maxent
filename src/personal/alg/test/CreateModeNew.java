@@ -65,7 +65,6 @@ public class CreateModeNew {
 //			    String type = s.substring(s.lastIndexOf(' ') + 1);
 			    //输出内容的概率
 			    System.out.println(s+"---------"+p);
-				break;
 			}
 			}
 		catch (Exception e) {
