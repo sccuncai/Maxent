@@ -29,7 +29,7 @@ java实现，此最大熵结合了java上opennlp包的最大熵及python上nltk�
 
 # 注意事项<br>
 1.如果输入数据同时包含类别类型和数值类型，那么麻烦去数值处理的类 ContinuumToDiscretization 中自行处理，或者新增自定义的类。<br>
-2.如果实际迭代次数小于设置的迭代次数，去类 ConvergenceCheck 中调整下参数（使用iis的话 MaxentClassifierWithIis 类中可调整牛顿切线发参数）<br>
+2.如果实际迭代次数小于设置的迭代次数，去类 ConvergenceCheck 中调整下参数（使用iis的话 MaxentClassifierWithIis 类中可调整牛顿切线法的参数）<br>
 ![image](https://github.com/sccuncai/Maxent/raw/master/Screenshots/4.png)
 
 有问题可联系我qq：30262400
