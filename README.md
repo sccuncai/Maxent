@@ -33,3 +33,7 @@ java实现，此最大熵结合了java上opennlp包的最大熵及python上nltk�
 ![image](https://github.com/sccuncai/Maxent/raw/master/Screenshots/4.png)
 
 有问题可联系我qq：30262400
+
+# 附加信息
+有兴趣请关注我的其他项目<br>
+https://github.com/sccuncai/SComicReader.git
