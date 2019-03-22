@@ -32,7 +32,6 @@ java实现，此最大熵结合了java上opennlp包的最大熵及python上nltk�
 2.如果实际迭代次数小于设置的迭代次数，去类 ConvergenceCheck 中调整下参数（使用iis的话 MaxentClassifierWithIis 类中可调整牛顿切线法的参数）<br>
 ![image](https://github.com/sccuncai/Maxent/raw/master/Screenshots/4.png)
 
-有问题可联系我qq：30262400
 
 # 附加信息
 有兴趣请关注我的其他项目<br>
